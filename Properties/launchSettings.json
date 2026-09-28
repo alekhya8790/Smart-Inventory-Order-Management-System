@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SmartIOMS": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "Swagger"
+    }
+  }
+}

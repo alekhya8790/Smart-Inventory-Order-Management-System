@@ -1,0 +1,6 @@
+@SmartIOMS_HostAddress = http://localhost:5093
+
+GET {{SmartIOMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
